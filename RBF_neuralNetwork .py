@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-"""Tp_RNA1.ipynb
+"""
+MIT Licence
 
 Zoghbi Abderraouf
 Change data to your location 
